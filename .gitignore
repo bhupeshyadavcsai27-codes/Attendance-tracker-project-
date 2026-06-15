@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+attendance.db
+attendance_report.csv
+
+.vscode/
+.idea/
+
+Thumbs.db
+desktop.ini
